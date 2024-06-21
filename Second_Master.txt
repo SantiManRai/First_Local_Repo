@@ -1,0 +1,3 @@
+This is second master file in text.
+
+Welcome to the world of Git learning.
